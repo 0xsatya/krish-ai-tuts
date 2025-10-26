@@ -2,6 +2,14 @@
 ```
     1. $ conda create -p venv python==3.10
     2. $ conda activate venv/       ⇒ activate environment
-    3. pip install -r requirements.txt
+    3. $ pip install -r requirements.txt
 
 ```
+
+### Install libraries
+`$ pip install numpy`
+
+
+### Tutorial
+- Install numpy
+- 
